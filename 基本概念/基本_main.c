@@ -5,6 +5,7 @@ int main(void)  //linux环境下建议是在main（）方法里加入vode参数
 {
 
     printf("hello world\n");
-    exit(0);
+    exit(0);  //退出的意思
+    //return 0;
 
 }
